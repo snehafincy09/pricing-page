@@ -2,7 +2,7 @@
  
 A responsive SaaS pricing page built with plain HTML and CSS, no frameworks. Three-tier pricing cards, a sticky nav with an active-state indicator, hover interactions, and a footer — all styled from scratch.
  
-**Live demo:** https://YOUR-USERNAME.github.io/pricing-page/
+**Live demo:** https://snehafincy09.github.io/pricing-page/
  
 ## What it includes
  
